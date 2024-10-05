@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: block;
+    background-image: url("../imgsatena/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+#titulos{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+#icones{
+  margin-left: 50px;
+}
+
+
+.corazul{
+    color: #2B85AB;
+}
+
+.menu{
+    background-color: #EBE7C5;
+ height: 70px;
+ box-shadow: black 0 2px 10px;
+ padding-top: 1%;
+ width: 100%;
+}
+
+
+
+.divindex{
+    float: right;
+    font-size: 22px;
+    border: 1px solid #cccccc;
+    background-color:  #EBE7C5;
+    height:300px;
+    margin: 3%;
+    padding: 12px;
+    box-shadow: black 0 5px 10px;
+}
+
+.divpalasatena{
+text-align: center;
+padding:12px;
+width:265px;
+}
+
+#idlupa{
+    float: right;
+    margin-right: 2%;
+    margin-top: 1,5%;
+}
+#idmenu{
+    float: left;
+    margin-left: 2%;
+    margin-top: 1,5%;
+}
+#links{
+    margin: 2%;
+    margin-top: 10px;
+   
+}
+
+.listaesportes{
+    background-color: #EBE7C5;
+    width: 250px;
+    padding: 2%;
+    height: 350px;
+    margin: 3%;
+    font-size: 20px;
+    box-shadow: black 0 5px 10px;
+}
+.listaesportes{
+    text-align: center
+    }
+
+
+
+
+.listaprofissoes{
+    background-color: #EBE7C5;
+    width: 300px ;
+    padding: 2%;
+    height: 350px;
+    margin: 3%;
+    font-size: 20px;
+    box-shadow: black 0 5px 10px;
+}
+
+.listaprofissoes{
+    text-align: center
+    }
+
+
+.listalivros{
+    background-color: #EBE7C5;
+    width: 300px ;
+    padding: 2% ;
+    height: 350px;
+    margin: 3%;
+    font-size: 20px;
+    box-shadow: black 0 5px 10px;
+}
+.listalivros{
+    
+  text-align: center;
+    }
+
+#listas{
+    float:left;
+}
+
+.cadernoint{
+    font-size: 25px;
+}
+.cadernocinza{
+    border: 8px double #EBE7C5;
+    padding: 0;
+}
+
+#produtos{
+    float: left;
+    margin: 50px;
+    margin-left: 50px;
+    text-align: center;
+    
+}
+
+.propaganda{
+    float:right;
+    margin-right: 1%;
+    border: 8px double #EBE7C5;
+    padding: 0;
+    padding-bottom: 0;
+   
+    
+}
+
+.imagensgaleria{
+    float: left;
+    margin: 1.7%;
+    font-size: 30px; 
+    font-size: 30px; 
+    border: 8px solid #EBE7C5;
+    padding: 0;
+    margin-top: 15px;
+    box-shadow: black 0 5px 10px;
+}
+
+a{
+    color:#2B85AB;
+    text-decoration: none;
+    font-size: 30px;
+    padding:  50px;
+
+}
+a:hover{
+    color:rgb(0, 100, 154);
+    text-decoration: underline;
+}
+.rodape{
+    background-color: #76b2cb;
+    height: 75px;
+    box-shadow: black 0 2px 10px;
+    margin-top: 2%;
+    padding-right: 3%;
+    text-align: right;
+    padding-top: 1%;
+    float: left;
+    width:100%;
+    padding: 1%;
+    box-sizing: border-box;
+}
+#batepapo{
+    padding-right: 100px;
+    float: right;
+   
+  
+    
+}
+#rebeca{
+     float: left;
+     margin-left: 1%;
+     
+   
+}
+
+
+
+
